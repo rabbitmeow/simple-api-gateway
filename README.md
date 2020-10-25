@@ -13,7 +13,7 @@ These instructions will get you a copy of the project up and running on your loc
 ### Installing
 
 A step by step series of examples that tell you how to get a development env running
-1. Clone this project `git clone https://github.com/rabbitmeow/simple-api-gateway.git` outside $GOPATH (for version >= 1.11) or inside $GOPATH/src (for version < 1.11)
+1. Clone this project `git clone https://github.com/vinbyte/simple-api-gateway.git` outside $GOPATH (for version >= 1.11) or inside $GOPATH/src (for version < 1.11)
 2. **(for version under 1.11)** After cloning it into your GOPATH, you need to run this to install all dependencies :
 `go mod tidy`
 3. Setting up your port, your [jwt](https://jwt.io) server key, or any service in `config.json`
